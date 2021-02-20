@@ -2,7 +2,7 @@
 
 ## Resources
   
-  Software: JavaScript, HTML, VS Code
+  Software: JavaScript, HTML, CSS, VS Code
   
 ## Overview
 
